@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="neymar" size="10.000000 7.234134" />
+    <ImageTarget name="BarcaLogo" size="10.000000 6.997608" />
+    <ImageTarget name="BarcaTrio" size="10.000000 7.264073" />
+    <ImageTarget name="bookCover" size="10.000000 15.363408" />
+  </Tracking>
+</QCARConfig>
